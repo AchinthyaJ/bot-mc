@@ -8,8 +8,8 @@ To set up the bot, you need to have Node.js installed on your machine. Then, fol
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/AchinthyaJ/bot-mc.git
+   cd <The Directory Where You Downloaded The Repository>
    ```
 
 2. Install the required dependencies:
